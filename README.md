@@ -1,1 +1,3 @@
-# sample-
+# define
+
+i defined..
